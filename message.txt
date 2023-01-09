@@ -1,7 +1,14 @@
-
+12345
 hello
 world
+<<<<<<< HEAD
 
 the weather is good
 
+новый контент
+и тут
 
+=======
+>>>>>>> parent of 63a64cc (add one more line)
+
+привет мир
